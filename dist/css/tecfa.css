@@ -17,6 +17,11 @@ nav#main-tecfa-nav a.nav-link:hover {
   color: #DDD !important;
 }
 
+footer .media-links a,
+footer .media-links a:hover {
+  color: #FFF;
+}
+
 /*!
  * Bootstrap v4.1.3 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
