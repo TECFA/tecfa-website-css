@@ -1,0 +1,15 @@
+nav#main-tecfa-nav {
+    height: 80px;
+
+    a.nav-link {
+        color: white !important;
+    }
+
+    .active>a.nav-link {
+        color: #61C5ED !important;
+    }
+
+    a.nav-link:hover {
+        color: #DDD !important;
+    }
+}

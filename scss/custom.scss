@@ -1,3 +1,10 @@
 // TECFA colors
-$theme-colors: ( "tecfa-primary": #005B86, "tecfa-grey": #4D4D4D, "tecfa-green": #A2BC3A, "tecfa-blue": #61C5ED, "tecfa-violet": #7F71A3, "tecfa-orange": #DA7A29);
+@import "_colors.scss";
+@import "_fonts.scss";
+@import "_body.scss";
+@import "_main.scss";
+@import "_utility-bar.scss";
+@import "_navbar.scss";
+@import "_links.scss";
+
 @import "../node_modules/bootstrap/scss/bootstrap";
