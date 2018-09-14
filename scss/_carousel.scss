@@ -1,0 +1,12 @@
+.carousel-caption {
+  position: absolute;
+  right: 0;
+  bottom: 0px;
+  left: 0;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #FFF;
+  text-align: center;
+  background-color: rgba($color: #000, $alpha: 0.6)
+}

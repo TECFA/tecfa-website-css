@@ -22,6 +22,19 @@ footer .media-links a:hover {
   color: #FFF;
 }
 
+.carousel-caption {
+  position: absolute;
+  right: 0;
+  bottom: 0px;
+  left: 0;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #FFF;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
 /*!
  * Bootstrap v4.1.3 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
