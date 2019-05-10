@@ -1,5 +1,10 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Raleway");
+/* Smooth scrolling for internal links */
+html {
+  scroll-behavior: smooth;
+}
+
 #utility-bar {
   margin-top: 90px;
 }
